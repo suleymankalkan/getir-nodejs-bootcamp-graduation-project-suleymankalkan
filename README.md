@@ -23,7 +23,7 @@ After everything is installed and configured, we can simply start out project wi
 ### Tests
 To run integration tests, simply execute:
 ```bash
-  npm run dev
+  npm test
 ```
 ## API Reference
 
